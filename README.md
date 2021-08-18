@@ -1,5 +1,6 @@
 # RPG
 Random Password Generator
+This project is based on gui based and designed by using tkinter library
 In this project i have created two files, one main file and the other one is support 
 main file contains the code for gui.
 support file contains the algorithm for password generator.
