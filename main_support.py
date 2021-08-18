@@ -123,9 +123,9 @@ class Generator():
 
             port = 465  # For SSL
             smtp_server = "smtp.gmail.com"
-            sender_email = "arunkumar160301@gmail.com"  # Enter your address
+            sender_email = "testing@gmail.com"  # Enter your address
             receiver_email = w.Entry1_1_1_1.get()  # Enter receiver address
-            password = "Arunkumar@77"
+            password = "Abcdef@123"
             key = getattr(Generator,'password1')
             message = """\
             Subject: Random Password Generator
